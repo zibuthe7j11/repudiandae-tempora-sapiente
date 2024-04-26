@@ -1,18 +1,73 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/repudiandae-tempora-sapiente",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "patch",
+    "parser",
+    "persistent",
+    "bootstrap css",
+    "clone",
+    "symlink",
+    "stateless",
+    "ES2018",
+    "colors",
+    "tdd",
+    "ES2019",
+    "workspace:*",
+    "characters",
+    "exit",
+    "serializer",
+    "inspect",
+    "npm",
+    "time",
+    "URL",
+    "curl",
+    "cjk",
+    "lesscss",
+    "wrap",
+    "three",
+    "jsonpath",
+    "modules",
+    "descriptors",
+    "glob",
+    "throat",
+    "gradients css",
+    "recursive",
+    "Object.defineProperty",
+    "stylesheet",
+    "byteOffset",
+    "bcrypt",
+    "bluebird",
+    "polyfill",
+    "real-time",
+    "code points",
+    "multi-package",
+    "diff",
+    "helpers",
+    "values",
+    "trimStart",
+    "positive",
+    "bootstrap less",
+    "format",
+    "toSorted",
+    "move"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/repudiandae-tempora-sapiente.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/repudiandae-tempora-sapiente/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/repudiandae-tempora-sapiente/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
